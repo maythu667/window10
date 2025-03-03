@@ -9,11 +9,10 @@ echo "        "
     }
    echo -e "
    $grn
-               This Script Creat By HARUKO
-               This Script Window 10 Install For Android
-               Please Your Have Phone Storage 6gb
-               Your Android Need Ram 4
-               Thanking For Use This Script 
+                              This Script Creat By HARUKO
+                              This Script Window 10 Install For Android
+                              Please Your Have Phone Storage 6gb
+                              Thanking For Use This Script 
                               
  $grn
        "|pv -qL 300
